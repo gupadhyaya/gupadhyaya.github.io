@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ganesha Upadhyaya Personal Page
+title: Personal Page
 email: ganeshau@iastate.edu
 name: Ganesha Upadhyaya
-avatar: https://hridesh.github.io/images/hr.jpg
+avatar: https://gupadhyaya.github.io/images/gu.jpg
 description: PhD Student, Computer Science, Iowa State University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://web.cs.iastate.edu/~ganeshau/" # the base hostname & protocol for your site
